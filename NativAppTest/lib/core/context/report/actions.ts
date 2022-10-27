@@ -1,0 +1,2 @@
+export const SET_LIST_REPORTS = 'SET_LIST_REPORTS';
+export const SET_DATA_NEW_REPORT = 'SET_DATA_NEW_REPORT';
